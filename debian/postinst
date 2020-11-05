@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#DEBCONF#
+
+update-initramfs -k 5.4.73-v7l+ -c
+ln -s /boot/vmlinuz-5.4.73-v7l+ /boot/vmlinuz
+ln -s /boot/initrd.img-5.4.73-v7l+ /boot/initrd.img
