@@ -6,6 +6,6 @@ Maintainer: June Tate-Gans <june@theonelab.com>
 Standards-Version: 4.3.0
 
 Package: pi4-firmware
-Architecture: all
+Architecture: armhf
 Depends: dpkg (>= 1.15.4)
 Description: Raspberry Pi 4 firmware, kernel, modules, GLES drivers, etc.
