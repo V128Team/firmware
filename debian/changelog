@@ -1,4 +1,10 @@
-pi4-firmware (1.202001022.v128-1) UNRELEASED; urgency=medium
+pi4-firmware (1.20210527.v128-1) sid; urgency=medium
+
+  * Bump to the next major stable version of the firmware.
+
+ -- June Tate-Gans <june@theonelab.com>  Sun, 30 May 2021 10:48:08 -0500
+
+pi4-firmware (1.20201022.v128-1) sid; urgency=medium
 
   * First release
 
